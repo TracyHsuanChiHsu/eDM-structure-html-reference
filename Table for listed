@@ -1,52 +1,149 @@
-<table width="750" border="0" cellspacing="0" cellpadding="0">	
-<tr>
-  <td bgcolor="#e8e8e8"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td width="40">&nbsp;</td>
-        <td width="710"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td width="420" style="color: #202020"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                    <td style="font-family: Arial, sans-serif; font-size: 26px; color: #000000; padding-top: 20px; padding-bottom: 20px;"><b>The Title / Heading 1</b></td>
-                  </tr>
-                  <tr>
-                    <td style="font-family: Arial, sans-serif; font-size: 15px; color: #202020; padding-bottom: 10px">The title / Heading 2</td>
-                  </tr>
-                  <tr>
-                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tr>
-                          <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020" valign="top">&nbsp;&bull;</td>
-                          <td width="98%" style="padding-bottom: 5px; ;">feature 1</td>
-                        </tr>
-                        <tr>
-                          <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020;" valign="top">&nbsp;&bull;</td>
-                          <td width="98%" style="padding-bottom: 5px; ;">feature 2</td>
-                        </tr>
-                        <tr>
-                          <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020;" valign="top">&nbsp;&bull;</td>
-                          <td width="98%" style="padding-bottom: 5px; ;">feature 3</td>
-                        </tr>
-                        <tr>
-                          <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020;" valign="top">&nbsp;&bull;</td>
-                          <td width="98%" style="padding-bottom: 30px; ;">feature 4</td>
-                        </tr>
-                      </table></td>
-                  </tr>
-                </table></td>
-              <td width="40">&nbsp;</td>
-              <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                  <tr>
-                    <td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:30px; color:#000000; padding-top: 20px; padding-bottom: 20px;"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr>
-                          <td align="center" width="100%" height="40" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; " bgcolor="#0070c0"><a href="#" target="_blank" style=" color:#ffffff; text-decoration: none;">This is a CTA</a></td>
-                        </tr>
-                      </table></td>
-                  </tr>
-                </table></td>
-            </tr>
-          </table></td>
-        <td width="40">&nbsp;</td>
-      </tr>
-    </table></td>
-</tr>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#e8e8e8"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40">&nbsp;</td>
+          <td width="710"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="420" style="color: #202020"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td style="font-family: Arial, sans-serif; font-size: 26px; color: #000000; padding-top: 20px; padding-bottom: 20px;"><b>The Title / Heading 1</b></td>
+                    </tr>
+                    <tr>
+                      <td style="font-family: Arial, sans-serif; font-size: 15px; color: #202020; padding-bottom: 10px">The title / Heading 2</td>
+                    </tr>
+                    <tr>
+                      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020" valign="top">&nbsp;&bull;</td>
+                            <td width="98%" style="padding-bottom: 5px; ;">feature 1</td>
+                          </tr>
+                          <tr>
+                            <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020;" valign="top">&nbsp;&bull;</td>
+                            <td width="98%" style="padding-bottom: 5px; ;">feature 2</td>
+                          </tr>
+                          <tr>
+                            <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020;" valign="top">&nbsp;&bull;</td>
+                            <td width="98%" style="padding-bottom: 5px; ;">feature 3</td>
+                          </tr>
+                          <tr>
+                            <td width="2%" style="padding:0 10px 0 10px; vertical-align: top; color: #202020;" valign="top">&nbsp;&bull;</td>
+                            <td width="98%" style="padding-bottom: 30px; ;">feature 4</td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+                <td width="40">&nbsp;</td>
+                <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:30px; color:#000000; padding-top: 20px; padding-bottom: 20px;"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td align="center" width="100%" height="40" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; " bgcolor="#0070c0"><a href="#" target="_blank" style=" color:#ffffff; text-decoration: none;">This is a CTA</a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+          <td width="40">&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="20">&nbsp;</td>
+          <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="200"><table align="center" width="200" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td valign="top"><a href="#"><img src="https://upload.cc/i1/2022/08/26/xj724w.jpg" alt="image" width="300" style="vertical-align: top"></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                      <td valign="top"><table align="center" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="20" style="width: 20px;">&nbsp;</td>
+                                        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" align="left"><table width="10%" border="0" cellspacing="0" cellpadding="0">
+                                                      </table></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                          <td height="24" style="font-size:0px; line-height:0px; border:0px;">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td width="15%" style="padding-bottom: 10px;" valign="top"><b>Line1</b></td>
+                                                          <td width="80%" style="padding-left: 10px; padding-bottom: 10px; vertical-align: top" valign="top">list 1</td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td width="15%" style="padding-bottom: 10px;" valign="top"><b>Line2</b></td>
+                                                          <td width="80%" style="padding-left: 10px; padding-bottom: 10px; vertical-align: top" valign="top">list 1</td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td width="15%" style="padding-bottom: 10px;" valign="top"><b>Line3</b></td>
+                                                          <td width="80%" style="padding-left: 10px; padding-bottom: 10px; vertical-align: top" valign="top">list 1</td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td width="15%" style="padding-bottom: 10px;" valign="top"><b>Line4</b></td>
+                                                          <td width="80%" style="padding-left: 10px; padding-bottom: 10px; vertical-align: top" valign="top">list 1<span style="color: #FF0000"> span class content</span></td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td width="15%" style="padding-bottom: 10px;" valign="top"><b>Line5</b></td>
+                                                          <td width="80%" style="padding-left: 10px; padding-bottom: 10px; vertical-align: top" valign="top">list 6 if the content is long it should extend automatically</td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td width="15%" style="padding-bottom: 10px;" valign="top"><b>Line6</b></td>
+                                                          <td width="80%" style="padding-left: 10px; padding-bottom: 10px; vertical-align: top" valign="top">list 7</td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td width="15%" style="padding-bottom: 10px;" valign="top"><b>Line7</b></td>
+                                                          <td width="80%" style="padding-left: 10px; padding-bottom: 10px; vertical-align: top" valign="top">list 8</td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td align="center" style="padding-top:30px; padding-bottom: 20px;"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                                        <tr>
+                                                          <td width="9%" class="spacer">&nbsp;</td>
+                                                          <td width="40%" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:15px; color:#000000;padding-top:10px; padding-bottom: 10px; padding-left: 15px; padding-right: 15px" bgcolor="#edb12a"><a href="https://buy.advantech.com/Tablet-PCs/Rugged-Tablet-PCs-By-Operating-System-Windows/AUS_32226.products.htm" target="_blank" style="color:#ffffff; text-decoration:none;"><b>CTA #1</b></a></td>
+                                                          <td width="6%" class="spacer">&nbsp;</td>
+                                                          <td width="56%" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:15px; color:#000000;padding-top:10px; padding-bottom: 10px; padding-left: 15px; padding-right: 15px" bgcolor="#505fab"><a href="https://www.advantech.com/form/4e53f8fe-1f2c-464c-9333-4363dc1683cf?utm_campaign=WarehouseHMI_AOL_eDM&utm_medium=Unica-sent-eDM&utm_source=Unica-sent-eDM" target="_blank" style="color:#ffffff; text-decoration:none;"><b>CTA #2</b></a></td>
+                                                          <td width="6%" class="spacer">&nbsp;</td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:30px; color:#000000; padding-top: 20px; padding-bottom: 20px;" ></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+          <td width="20" style="width:20px;">&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>	
 </table>
